@@ -1,0 +1,7 @@
+﻿  addressTestClass.cpp
+c:\users\adam\source\repos\duehring_project_objectoriented\duehring_project_objectoriented\addresstestclass.cpp(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\adam\source\repos\duehring_project_objectoriented\duehring_project_objectoriented\addresstestclass.cpp(5): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\adam\source\repos\duehring_project_objectoriented\duehring_project_objectoriented\customer.h(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\adam\source\repos\duehring_project_objectoriented\duehring_project_objectoriented\addresstestclass.cpp(6): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\adam\source\repos\duehring_project_objectoriented\duehring_project_objectoriented\book.h(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Duehring_Project_ObjectOriented.vcxproj -> C:\Users\Adam\source\repos\Duehring_Project_ObjectOriented\Debug\Duehring_Project_ObjectOriented.exe
